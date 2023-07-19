@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "White T-Shirt",
+    "price": 19.99,
+    "imgUrl": "https://images.unsplash.com/photo-1562157873-818bc0726f68?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=327&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Blue Jeans",
+    "price": 49.99,
+    "imgUrl": "https://images.unsplash.com/photo-1544441893-675973e31985?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Black Dress",
+    "price": 79.99,
+    "imgUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
+  },
+  {
+    "id": 4,
+    "name": "White Sneakers",
+    "price": 59.99,
+    "imgUrl": "https://images.unsplash.com/photo-1588099768531-a72d4a198538?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Maroon Skirt",
+    "price": 39.99,
+    "imgUrl": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=434&q=80"
+  },
+  {
+    "id": 6,
+    "name": "T-Shirt",
+    "price": 19.99,
+    "imgUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80"
+  }
+]
